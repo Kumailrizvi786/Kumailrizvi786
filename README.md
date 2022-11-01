@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on RFS and LMS
+- 🔭 I’m currently working on RFS and REACT based mini project 
 - 🌱 I’m currently learning Java, React and Spring Boot Application
 - 🤔 I’m looking for help with Android Development.
 - 💬 Ask me about Tech related stuff.
