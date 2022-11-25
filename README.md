@@ -5,3 +5,6 @@
 - 💬 Ask me about Tech related stuff.
 - 📫 How to reach me: [Twitter-kumailr38359490](https://twitter.com/kumailr38359490) , [Instagram-krizvi1512](https://www.instagram.com/krizvi1512)
 - 😄 Pronouns: He/His
+
+
+<img src = "https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
