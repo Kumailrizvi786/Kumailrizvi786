@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Node based project 
 - 🌱 I’m currently learning Java, React, Javascript, Node.js.
 - 💬 Ask me about Tech related stuff.
-- 📫 How to reach me: [Twitter-kumailr38359490](https://twitter.com/kumailr38359490) , [Instagram-krizvi1512](https://www.instagram.com/krizvi1512)
+- 📫 How to reach me: [LinkedIn ](https://www.linkedin.com/in/syed-kumail-rizvi/) , [Instagram-krizvi1512](https://www.instagram.com/krizvi1512)
 - 😄 Pronouns: He/His
 
 
