@@ -1,3 +1,6 @@
+
+![Syed Kumail Rizvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kumailrizvi786&show_icons=true&theme=onedark)
+
 ### Hi there 👋
 - 🔭 I’m currently working on Node based project 
 - 🌱 I’m currently learning Java, React, Javascript, Node.js.
