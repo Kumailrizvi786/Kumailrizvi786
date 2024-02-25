@@ -9,5 +9,8 @@
 - 😄 Pronouns: He/His
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumailrizvi786&layout=donut-vertical)](https://github.com/Kumailrizvi786/github-readme-stats)
+
+
 <!-- <img src = "https://github-readme-stats.vercel.app/api?username=Kumailrizvi786&&show_icons=true&title_color=ffffff&icon_color=ffba2c&text_color=daf7dc&bg_color=191919">
  -->
