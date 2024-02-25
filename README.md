@@ -1,5 +1,5 @@
 
-![Syed Kumail Rizvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kumailrizvi786&show_icons=true&theme=onedark)
+![Syed Kumail Rizvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kumailrizvi786&show_icons=true&theme=dark)
 
 ### Hi there 👋
 - 🔭 I’m currently working on Node based project 
