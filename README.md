@@ -9,7 +9,7 @@
 
 
 ### Hi there 👋
-- 🔭 I’m currently working on C++ based project 
+- 🔭 I’m currently working on React based project 
 - 🌱 I’m currently learning C++, MQTT, CURL. 
 - 💬 Ask me about Tech related stuff.
 - 📫 How to reach me: [LinkedIn ](https://www.linkedin.com/in/syed-kumail-rizvi/) , [Instagram-krizvi1512](https://www.instagram.com/krizvi1512)
